@@ -1,0 +1,155 @@
+city_id,nazev,skupina,kraj
+1,Chomutov,A,Ustecky kraj
+2,Jihlava,A,Kraj Vysocina
+3,Decin,A,Ustecky kraj
+4,Ostrava,A,Moravskoslezsky kraj
+5,Kladno,A,Stredocesky kraj
+6,Zlin,A,Zlinsky kraj
+7,Plzen,A,Plzensky kraj
+8,Havirov,A,Moravskoslezsky kraj
+9,Teplice,A,Ustecky kraj
+10,Prerov,A,Olomoucky kraj
+11,H. Brod,V,Kraj Vysocina
+12,Hodonin,B,Jihomoravsky kraj
+13,Cheb,B,Karlovarsky kraj
+14,Kromeriz,B,Zlinsky kraj
+15,Pisek,B,Jihocesky kraj
+16,Sumperk,B,Olomoucky kraj
+17,Tabor,B,Jihocesky kraj
+18,Uhersky Brod,B,Zlinsky kraj
+19,Vsetin,B,Zlinsky kraj
+21,Valasske Mezirici,C,Zlinsky kraj
+22,Strakonice,C,Jihocesky kraj
+23,Otrokovice,C,Zlinsky kraj
+24,Nymburk,C,Stredocesky kraj
+25,Louny,C,Ustecky kraj
+26,Hranice,C,Olomoucky kraj
+27,Hlucin,C,Moravskoslezsky kraj
+28,Beroun,B,Stredocesky kraj
+29,Litvinov,C,Ustecky kraj
+30,Dacice,E,Jihocesky kraj
+31,Boskovice,D,Jihomoravsky kraj
+32,Kralovice,D,Plzensky kraj
+33,Varnsdorf,D,Ustecky kraj
+34,Novy Bydzov,D,Kralovehradecky kraj
+35,Vimperk,D,Jihocesky kraj
+36,Ostrov,D,Karlovarsky kraj
+37,Vrchlabi,D,Kralovehradecky kraj
+38,Prelouc,D,Pardubicky kraj
+39,Zamberk,D,Pardubicky kraj
+40,Stribro,D,Plzensky kraj
+41,Moravske Budejovice,E,Kraj Vysocina
+42,Vitkov,E,Moravskoslezsky kraj
+43,Sternberk,E,Olomoucky kraj
+44,Kraliky,D,Pardubicky kraj
+45,Rosice,E,Jihomoravsky kraj
+46,Luhacovice,E,Zlinsky kraj
+47,Zabreh,E,Olomoucky kraj
+48,Svetla nad Sazavou,V,Kraj Vysocina
+49,Lanskroun,D,Pardubicky kraj
+50,Pelhrimov,C,Kraj Vysocina
+51,Cernosice,B,Stredocesky kraj
+52,Kurim,E,Jihomoravsky kraj
+53,Jindrichuv Hradec,C,Jihocesky kraj
+54,Kyjov,C,Jihomoravsky kraj
+55,Nova Paka,D,Kralovehradecky kraj
+56,Jablonec nad Nisou,A,Liberecky kraj
+57,Jablunkov,E,Moravskoslezsky kraj
+58,Uherske Hradiste,B,Zlinsky kraj
+59,Bystrice nad Pernstejnem,V,Kraj Vysocina
+60,Humpolec,D,Kraj Vysocina
+61,Chotebor,E,Kraj Vysocina
+62,Namest nad Oslavou,V,Kraj Vysocina
+63,Nove Mesto na Morave,E,Kraj Vysocina
+64,Pacov,V,Kraj Vysocina
+65,Telc,V,Kraj Vysocina
+66,Velke Mezirici,V,Kraj Vysocina
+67,Zdar nad Sazavou,C,Kraj Vysocina
+68,Moravska Ostrava a Privoz,C,Moravskoslezsky kraj
+69,Ostrava - Jih,A,Moravskoslezsky kraj
+70,Ostrava - Poruba,M,Moravskoslezsky kraj
+71,Radvanice a Bartovice,M,Moravskoslezsky kraj
+72,Konice,E,Olomoucky kraj
+73,Litovel,E,Olomoucky kraj
+74,Prostejov,A,Olomoucky kraj
+75,Unicov,E,Olomoucky kraj
+76,Hradec Kralove,A,Kralovehradecky kraj
+77,Pribyslav,I,Kraj Vysocina
+78,Jaromerice nad Rokytnou,I,Kraj Vysocina
+79,Rumburk,G,Ustecky kraj
+80,Milevsko,D,Jihocesky kraj
+81,Tyn nad Vltavou,D,Jihocesky kraj
+82,Dobris,D,Stredocesky kraj
+83,Novy Bor,G,Liberecky kraj
+84,Lysa nad Labem,D,Stredocesky kraj
+85,Slany,C,Stredocesky kraj
+86,Moravska Trebova,E,Pardubicky kraj
+87,Mohelnice,E,Olomoucky kraj
+88,Bilovec,E,Moravskoslezsky kraj
+89,Frydek-Mistek,A,Moravskoslezsky kraj
+90,Slapanice,B,Jihomoravsky kraj
+91,Pohorelice,E,Jihomoravsky kraj
+92,Orlova,C,Moravskoslezsky kraj
+93,Slavkov u Brna,E,Jihomoravsky kraj
+94,Trest,I,Kraj Vysocina
+95,Bechyne,I,Jihocesky kraj
+96,Novy Jicin,C,Moravskoslezsky kraj
+97,Hlubocky,I,Olomoucky kraj
+98,Nemcice nad Hanou,I,Olomoucky kraj
+99,Moravsky Beroun,I,Olomoucky kraj
+100,Horovice,D,Stredocesky kraj
+101,Hustopece,E,Jihomoravsky kraj
+102,Chrudim,B,Pardubicky kraj
+103,Ivancice,N,Jihomoravsky kraj
+104,Jesenik,N,Olomoucky kraj
+105,Kralupy nad Vltavou,N,Stredocesky kraj
+106,Mikulov,E,Jihomoravsky kraj
+107,Moravsky Krumlov,E,Jihomoravsky kraj
+108,Tisnov,N,Jihomoravsky kraj
+109,Zidlochovice,N,Jihomoravsky kraj
+110,Vodnany,D,Jihocesky kraj
+111,Pardubice,A,Pardubicky kraj
+112,Ricany,B,Stredocesky kraj
+113,Karvina,A,Moravskoslezsky kraj
+114,Roznov pod Radhostem,C,Zlinsky kraj
+115,Koprivnice,C,Moravskoslezsky kraj
+116,Benesov,C,Stredocesky kraj
+117,Cesky Brod,D,Stredocesky kraj
+118,Praha 18,D,Hlavni mesto Praha
+119,Vyskov,C,Jihomoravsky kraj
+120,Bucovice,E,Jihomoravsky kraj
+121,Bystrice pod Hostynem,E,Zlinsky kraj
+122,Praha 10,A,Hlavni mesto Praha
+123,Rymarov,E,Moravskoslezsky kraj
+124,Breclav,C,Jihomoravsky kraj
+125,Litomerice,C,Ustecky kraj
+126,Trutnov,B,Kralovehradecky kraj
+127,Kolin,B,Stredocesky kraj
+128,Cesky Krumlov,C,Jihocesky kraj
+129,Poderady,D,Stredocesky kraj
+130,Karlovy Vary,A,Karlovarsky kraj
+131,Praha 7,C,Hlavni mesto Praha
+132,Opava,A,Moravskoslezsky kraj
+133,Usti nad Orlici,D,Pardubicky kraj
+134,Lovosice,D,Ustecky kraj
+135,Roudnice nad Labem,D,Ustecky kraj
+136,Jilemnice,D,Liberecky kraj
+137,Horice,D,Kralovehradecky kraj
+138,Praha 13,B,Hlavni mesto Praha
+139,Liberec,A,Liberecky kraj
+140,Most,A,Ustecky kraj
+141,Kutna Hora,C,Stredocesky kraj
+142,Prachatice,D,Jihocesky kraj
+143,Trhove Sviny,D,Jihocesky kraj
+144,Trinec,A,Moravskoslezsky kraj
+145,Rakovnik,B,Stredocesky kraj
+146,Pribram,B,Stredocesky kraj
+147,Melnik,C,Stredocesky kraj
+148,Znojmo,B,Jihomoravsky kraj
+149,Zatec,D,Ustecky kraj
+150,Praha 5,A,Hlavni mesto Praha
+151,Dobruska,D,Kralovehradecky kraj
+152,Mlada Boleslav,A,Stredocesky kraj
+153,Turnov,D,Liberecky kraj
+154,Frydlant nad Ostravici,E,Moravskoslezsky kraj
+155,Ostrava - Vitkovice,E,Moravskoslezsky kraj
